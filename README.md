@@ -1,4 +1,4 @@
-## Bem-vindo ao meu repositório GitHub! Aqui você encontrará uma coleção dos meus projetos e trabalhos relacionados à Programação Web, Edição de Vídeo, Desenho SFW (Safe for Work) e GameArt. Este portfólio foi criado para exibir minha jornada e experiência nessas áreas criativas e técnicas.
+# Bem-vindo ao meu repositório GitHub! Aqui você encontrará uma coleção dos meus projetos e trabalhos relacionados à Programação Web, Edição de Vídeo, Desenho SFW (Safe for Work) e GameArt. Este portfólio foi criado para exibir minha jornada e experiência nessas áreas criativas e técnicas.
 
 
 - Programação Geral
