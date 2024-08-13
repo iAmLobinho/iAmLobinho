@@ -10,7 +10,4 @@
 - Ferramentas de Edição de vídeo
 >  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="32px" width="32px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="32px" width="32px"/>
 
-<div>
-<a href="https://github.com/iAmLobinho">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAmLobinho&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
