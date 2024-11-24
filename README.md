@@ -15,7 +15,7 @@
 > [Led ARG Responsive](https://github.com/iAmLobinho/LedResponsive) <br>
 
 ## Próximo Projeto
-> [Motion Track - TCC](https://github.com/iAmLobinho/Motion-Track---TCC) <br>
+> [Rasp Berry GBA](https://github.com/iAmLobinho/Rasp-GBA) <br>
 
 ## Linguagens mais usadas
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
