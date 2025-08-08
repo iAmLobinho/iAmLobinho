@@ -21,7 +21,7 @@
 > [Led ARG Responsive](https://github.com/iAmLobinho/LedResponsive) <br>
 
 ## Próximo Projeto
-> [Mega Asteroider Ex](https://github.com/iAmLobinho/Rasp-GBA) <br>
+> [Mega Asteroider Ex](https://github.com/iAmLobinho/Mega-Asteroider-Ex) <br>
 
 ## Linguagens mais usadas
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAmLobinho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
