@@ -19,9 +19,10 @@
 ## Projetos Finalizados: <br>
 > [Better OpTimizer Discord](https://github.com/iAmLobinho/BetterOPT-Theme?tab=readme-ov-file#betteropt-theme) <br>
 > [Led ARG Responsive](https://github.com/iAmLobinho/LedResponsive) <br>
+> [Mega Asteroider Ex](https://github.com/iAmLobinho/Mega-Asteroider-Ex) <br>
 
 ## Próximo Projeto
-> [Mega Asteroider Ex](https://github.com/iAmLobinho/Mega-Asteroider-Ex) <br>
+> [Lutthør Horror]
 
 ## Linguagens mais usadas
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAmLobinho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
