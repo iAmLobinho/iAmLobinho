@@ -22,7 +22,7 @@
 > [Mega Asteroider Ex](https://github.com/iAmLobinho/Mega-Asteroider-Ex) <br>
 
 ## Próximo Projeto
-> [Lutthør Horror](https://github.com/iAmLobinho/Lutthor-Horror)
+> [Lutthør Horror](https://github.com/iAmLobinho/LutthorHorror)
 
 ## Linguagens mais usadas
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAmLobinho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
