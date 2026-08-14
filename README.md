@@ -54,7 +54,6 @@ Produção e pós-produção audiovisual:
 ## 🚀 Projetos Finalizados
 Alguns dos projetos que representam bem minhas habilidades técnicas e criativas:
 
-- 🔧 **[Better OpTimizer Discord](https://github.com/iAmLobinho/BetterOPT-Theme?tab=readme-ov-file#betteropt-theme)**  
 - 💡 **[Led ARG Responsive](https://github.com/iAmLobinho/LedResponsive)**  
 - 🎮 **[Mega Asteroider Ex](https://github.com/iAmLobinho/Mega-Asteroider-Ex)**
 -  👁️ **[Lutthør Horror](https://github.com/iAmLobinho/LutthorHorror)**  
