@@ -63,7 +63,7 @@ Alguns dos projetos que representam bem minhas habilidades técnicas e criativas
 ## 🔮 Próximo Projeto
 Atualmente em desenvolvimento:
 
-- *Nada em desenvolvimento no momento*
+- 🤖 **[Yummiko Assistant](https://github.com/iAmLobinho/Yummiko-Assistant)**
 
 ---
 
